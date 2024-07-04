@@ -64,3 +64,4 @@ if __name__ == "__main__":
     n_queen_list = n_queen([], [], [], 0, n - 1)
     for i in n_queen_list:
         print(i)
+        
